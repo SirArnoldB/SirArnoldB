@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnold Bhebhe</h1>
-<h3 align="center">An experiential learner with an ardent love for engineering and computer science. I relish the opportunity of solving problems and helping other people in life.</h3>
+<h3 align="center">𝕀'𝕞 𝕒𝕟 𝕖𝕩𝕡𝕖𝕣𝕚𝕖𝕟𝕥𝕚𝕒𝕝 𝕝𝕖𝕒𝕣𝕟𝕖𝕣 𝕨𝕚𝕥𝕙 𝕒 𝕡𝕒𝕤𝕤𝕚𝕠𝕟 𝕗𝕠𝕣 𝕖𝕟𝕘𝕚𝕟𝕖𝕖𝕣𝕚𝕟𝕘 𝕒𝕟𝕕 𝕔𝕠𝕞𝕡𝕦𝕥𝕖𝕣 𝕤𝕔𝕚𝕖𝕟𝕔𝕖. 𝕀 𝕒𝕞 𝕕𝕣𝕚𝕧𝕖𝕟 𝕓𝕪 𝕥𝕙𝕖 𝕠𝕡𝕡𝕠𝕣𝕥𝕦𝕟𝕚𝕥𝕪 𝕥𝕠 𝕤𝕠𝕝𝕧𝕖 𝕡𝕣𝕠𝕓𝕝𝕖𝕞𝕤 𝕒𝕟𝕕 𝕙𝕖𝕝𝕡 𝕠𝕥𝕙𝕖𝕣𝕤.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirarnoldb&label=Profile%20views&color=0e75b6&style=flat" alt="sirarnoldb" /> </p>
 
